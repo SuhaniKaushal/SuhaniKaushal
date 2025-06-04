@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanikaushal&show_icons=true&locale=en&layout=compact" alt="suhanikaushal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhanikaushal&show_icons=true&locale=en" alt="suhanikaushal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanikaushal&" alt="suhanikaushal" /></p>
