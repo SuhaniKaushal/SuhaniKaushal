@@ -63,7 +63,7 @@
 
 </div>
 
-- *Problem Solving:*  DSA (LeetCode)  
+- *Problem Solving:*  DSA (LeetCode, Codeforce)  
 
 ---
 
