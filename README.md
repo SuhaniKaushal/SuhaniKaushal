@@ -66,7 +66,7 @@
   
 | *Languages*      | *Web Development*                    | *Tools & Platforms*            |
 |--------------------|----------------------------------|----------------------------------|
-| C++, JS    | Next.js, React, Flask, REST APIs, MongoDB, Express, Node.js | Git, GitHub, VS Code, Postman |
+| C++, JS    | Next.js, React, REST APIs, MongoDB, Express, Node.js | Git, GitHub, VS Code, Postman |
 
 </div>
 
