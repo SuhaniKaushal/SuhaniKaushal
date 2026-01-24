@@ -45,11 +45,12 @@
       <b>Tech stack:</b> MERN Stack(MongoDB, React, Express, Node js) </sub>
     </td>
     <td width="40%">
-      <b>📎 <a href= "https://github.com/ctrlcoded/Bind-DNS" target="_blank">Bind DNS</a></b><br>
-      <sub>A Dockerized BIND9 DNS server for local networks, enabling custom domain hosting, internal DNS management, ACL-based security, and DNS forwarding with easy YAML configuration.<br>
-<b>Tech stack:</b> BIND9, Docker, Docker Compose, YAML, Linux Networking</sub>
-
-    </td>
+  <b>🔗 <a href="https://github.com/ctrlcoded/Bind-DNS" target="_blank">Bind DNS</a></b><br>
+  <sub>
+    A Dockerized BIND9 DNS server for local networks, enabling custom domain hosting, internal DNS management, ACL-based security, and DNS forwarding with easy YAML configuration.<br>
+    <b>Tech stack:</b> BIND9, Docker, Docker Compose, YAML, Linux Networking
+  </sub>
+</td>
   </tr>
 </table>
 
