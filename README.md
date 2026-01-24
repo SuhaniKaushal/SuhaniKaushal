@@ -70,7 +70,7 @@
 
 </div>
 
-- *Problem Solving:*  DSA (LeetCode, Codeforce)  
+- *Problem Solving:*  DSA (LeetCode, Codeforces)  
 
 ---
 
