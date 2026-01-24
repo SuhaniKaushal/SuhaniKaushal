@@ -39,10 +39,16 @@
 
 <table>
   <tr>
-  <td colspan="2">
-      <b>📚 <a href="https://github.com/SuhaniKaushal/Student_task_tracker" target="_blank">Student Task Tracker</a></b><br>
-      <sub>A tech-themed student task tracking app with client-side sign-in/up, assignments, profile update, and dark mode — built using HTML, CSS, JavaScript.<br>
-      <b>Tech stack:</b> HTML5, CSS3, JavaScript &nbsp; • &nbsp;
+    <td width="40%">
+      <b>📎 <a href="https://go-nomad.netlify.app/" target="_blank">GoNomad</a></b><br>
+      <sub>GoNomad is a simple and convenient platform for renting and lending cars and bikes, making travel easy and accessible for everyone.<br>
+      <b>Tech stack:</b> MERN Stack(MongoDB, React, Express, Node js) </sub>
+    </td>
+    <td width="40%">
+      <b>📎 <a href= "https://github.com/ctrlcoded/Bind-DNS" target="_blank">Bind DNS</a></b><br>
+      <sub>A Dockerized BIND9 DNS server for local networks, enabling custom domain hosting, internal DNS management, ACL-based security, and DNS forwarding with easy YAML configuration.<br>
+<b>Tech stack:</b> BIND9, Docker, Docker Compose, YAML, Linux Networking</sub>
+
     </td>
   </tr>
 </table>
@@ -57,9 +63,9 @@
 
 <div align="center">
   
-| *Languages*      | *Web Development*              | *Tools & Platforms*            |
+| *Languages*      | *Web Development*                    | *Tools & Platforms*            |
 |--------------------|----------------------------------|----------------------------------|
-| C++, JS    | Next.js, React, Flask, REST APIs | Git, GitHub, VS Code, Postman |
+| C++, JS    | Next.js, React, Flask, REST APIs, MongoDB, Express, Node.js | Git, GitHub, VS Code, Postman |
 
 </div>
 
