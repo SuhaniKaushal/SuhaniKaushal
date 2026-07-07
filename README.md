@@ -83,28 +83,16 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
 <!-- ===== CONTRIBUTION ANIMATIONS ===== -->
 ## 🎮 Contribution Games
 
-### 👾 Pac-Man Game
+## 🐍 Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
-
+    srcset="https://raw.githubusercontent.com/SuhaniKaushal/SuhaniKaushal/output/snake.svg">
   <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
+    alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/SuhaniKaushal/SuhaniKaushal/output/snake.svg">
 </picture>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <!-- ===== FEATURED PROJECTS ===== -->
