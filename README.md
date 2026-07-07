@@ -93,7 +93,6 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
     alt="Snake eating my contributions"
     src="https://raw.githubusercontent.com/SuhaniKaushal/SuhaniKaushal/output/snake.svg">
 </picture>
----
 
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 🚀 Featured Projects
