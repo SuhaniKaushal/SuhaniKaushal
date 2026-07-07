@@ -1,101 +1,194 @@
-<!-- Professional & Beautiful GitHub Profile README for Suhani -->
+<!-- ===== HEADER CAPSULE ===== -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9D4EDD&height=200&section=header&text=SUHANI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20MERN%20Stack%20Developer&descSize=18&descAlignY=58" />
+</div>
 
-<h1 align="center">👋 Hi, I'm Suhani</h1>
-<p align="center"><b>Web Developer · C++ Programmer · Open Source Enthusiast</b></p>
+<!-- ===== TYPING ANIMATION ===== -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Engineer;Backend+%26+Scalable+API+Developer;RAG+Pipelines+%7C+Prompt+Engineering;MERN+Stack+%7C+System+Design" />
+</div>
 
-<p align="center">
-  <a href="mailto:suhanikaushal62@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suhanikaushal62@gmail.com-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <!-- Add your LinkedIn or other socials here -->
+<!-- ===== SOCIAL BADGES ===== -->
+<div align="center">
+
+<a href="https://aryan-portfolio-red-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/suhani-67637a28b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/suhani62/">
+<img src="https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:suhanikaushal62@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SuhaniKaushal&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" />
+
+</div>
+
+<br>
+
+<!-- ===== ABOUT ===== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+```typescript
+const suhani = {
+  role:     "AI/ML Engineer · MERN Stack Developer",
+  edu:      "Dual Degree ECE, NIT Hamirpur (2028)",
+  focus:    ["LLMs", "RAG Pipelines", "Scalable Backend APIs"],
+  building: "intelligent systems + the infrastructure behind them",
+  learning: ["LangGraph", "Advanced RAG", "Go", "System Design"],
+  motto:    "ship fast, build things that actually work",
+};
+```
+
+I build at the intersection of **Artificial Intelligence** and **Backend Engineering** — designing LLM-powered systems and the scalable APIs that serve them. I like turning rough ideas into production-ready products.
+
+---
+
+<!-- ===== TECH STACK ===== -->
+## 🛠️ Tech Stack
+
+#### AI / Machine Learning
+<p>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-2EA043?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn"/>
+<img src="https://img.shields.io/badge/LaBSE-purple?style=for-the-badge"/>
+</p>
+
+#### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,go"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+</p>
+
+#### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css"/>
+</p>
+
+#### Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,git,github,linux,aws,postman,vscode"/>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- ===== CONTRIBUTION ANIMATIONS ===== -->
+## 🎮 Contribution Games
 
-<div align="center">
+### 👾 Pac-Man Game
 
-<table width="1000" style="width:1000px; max-width:100%; border:2px solid #222; border-radius:10px;">
-  <tr>
-    <td width="62%" style="vertical-align:middle; padding:36px 32px; font-size:1.1em;">
-<ul>
-  <li>💻 Passionate about building clean, scalable web applications.</li>
-  <li>🧠 <b>Strong foundation in C++, algorithms, and problem solving.</b></li>
-  <li>⚡ Experienced with <b>Next.js</b>, React, and API integration.</li>
-  <li>🌱 Constantly learning and contributing to open source projects.</li>
-  <li>🏆 Active participant in coding competitions (LeetCode).</li>
-</ul>
-    </td>
-    <td width="25%" align="center" style="vertical-align:middle; padding:16px;">
-      <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="220" height="230" alt="Lakshay Chauhan coding illustration" style="border-radius:10px; object-fit:cover; box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
-    </td>
-  </tr>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
+</picture>
+
+</td>
+</tr>
 </table>
 
 </div>
 
-## 🌟 Featured Projects
+---
+
+<!-- ===== FEATURED PROJECTS ===== -->
+## 🚀 Featured Projects
+
+### 🚗 GoNomad — AI-Powered Vehicle Rental Platform
+A production-ready **MERN** platform with dual interfaces for customers and fleet owners.
+- 🔐 JWT auth + role-based access control (user / owner)
+- ⚡ Race-condition-safe booking via date-overlap logic — **0% booking conflicts** under load
+- 📈 Optimized REST APIs handling **100+ concurrent requests**
+- 🤖 **Google Gemini** integration for AI-generated car descriptions — **80% faster** listing creation
+- 🖼️ ImageKit CDN + WebP compression — **70% smaller** payloads, **2x faster** load
+
+`React` · `Node.js` · `Express` · `MongoDB` · `Google Gemini` · `ImageKit`
+
+<br>
+
+### 🌄 LEWS — Landslide Early Warning System
+A full-stack disaster management platform developed during my **Software Engineering Internship at IIT Roorkee**, featuring real-time environmental monitoring, analytics, and secure multi-tenant access. 
+
+- 🔐 Designed a **multi-tenant Role-Based Access Control (RBAC)** system for isolated organizational workspaces
+- 📊 Built **real-time monitoring dashboards** with live sensor analytics and risk visualization
+- 📈 Developed a **cross-correlation analysis module** for statistical comparison of environmental sensor data
+- 📉 Created interactive historical charts with **CSV export** for streamlined research workflows
+- ⚡ Optimized backend performance through connection pooling, chunked data loading, and modular Django architecture
+
+`Django` · `Python` · `JavaScript` · `HTML/CSS` · `Chart.js` · `SQLite`
+
+<br>
+
+### 🌐 Resolving Idioms for Indic Machine Translation `[Research]`
+A multilingual AI pipeline preserving cultural context in machine translation.
+- 📚 Processed **500+ Hindi idioms** through a multi-model AI workflow
+- 🔍 **LaBSE** embeddings + cosine similarity to filter semantic noise
+- 🧩 Scikit-learn ensemble aggregation to combine LLM outputs and preserve meaning
+
+`Python` · `Groq API` · `Llama Models` · `LaBSE` · `Scikit-Learn` · `RAG`
+
+---
+
+<!-- ===== ACHIEVEMENTS ===== -->
+## 🏆 Achievements
 
 <table>
-  <tr>
-    <td width="40%">
-      <b>📎 <a href="https://go-nomad.netlify.app/" target="_blank">GoNomad</a></b><br>
-      <sub>GoNomad is a simple and convenient platform for renting and lending cars and bikes, making travel easy and accessible for everyone.<br>
-      <b>Tech stack:</b> MERN Stack(MongoDB, React, Express, Node js) </sub>
-    </td>
-    <td width="40%">
-  <b>🔗 <a href="https://github.com/ctrlcoded/Bind-DNS" target="_blank">Bind DNS</a></b><br>
-  <sub>
-    A Dockerized BIND9 DNS server for local networks, enabling custom domain hosting, internal DNS management, ACL-based security, and DNS forwarding with easy YAML configuration.<br>
-    <b>Tech stack:</b> BIND9, Docker, Docker Compose, YAML, Linux Networking
-  </sub>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Competitive Programming**
+- Solved **500+ DSA problems**
+- **1500+** LeetCode rating
+- Active on LeetCode & GFG
+
 </td>
-  </tr>
+<td width="50%" valign="top">
+
+**🎯 Leadership**
+- Led **Hack On Hills** (All-India Hackathon)
+- Coordinated **40+ teams**
+- **2000+** registrations
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 💡 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,tailwind,postman,git,vscode" alt="Skill Icons" height="40" />
-</p>
+<!-- ===== GITHUB STATS ===== -->
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-| *Languages*      | *Web Development*                    | *Tools & Platforms*            |
-|--------------------|----------------------------------|----------------------------------|
-| C++, JS    | Next.js, React, REST APIs, MongoDB, Express, Node.js | Git, GitHub, VS Code, Postman |
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SuhaniKaushal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaniKaushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
-- *Problem Solving:*  DSA (LeetCode, Codeforces)  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/SuhaniKaushal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:suhanikaushal62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/suhani-67637a28b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhaniKaushal&show_icons=true&theme=tokyonight"
-       alt="Suhani's GitHub stats"
-       height="180"/>
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaniKaushal&theme=tokyonight&hide_border=true"/>
+</div>
 
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b><br>
-  <i>I’m always open to collaboration, learning opportunities, or a good tech conversation 😊</i>
-</p>
+<!-- ===== FOOTER CAPSULE ===== -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:36BCF7&height=120&section=footer&text=Let's%20build%20something%20intelligent&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+</div>
